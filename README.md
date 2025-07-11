@@ -38,6 +38,6 @@ Related Blog Post
 i wrote a blog documenting everything that went wrong during this project — from mongo crashing to backend errors, weird docker behavior, and how i fixed it all step-by-step.
 if you're new to dockerizing a mern stack or just want to avoid the mistakes i made, check it out here:
 
-👉 [**rookie mistakes i made while dockerizing my mern app (and how i fixed them)**]([https://your-hashnode-link](https://mycloudclimb.hashnode.dev/rookie-mistakes-i-made-while-dockerizing-my-mern-app-and-how-i-fixed-them))
+👉 [**rookie mistakes i made while dockerizing my mern app (and how i fixed them)**]([https://mycloudclimb.hashnode.dev/rookie-mistakes-i-made-while-dockerizing-my-mern-app-and-how-i-fixed-them])
 
 it includes fixes, lessons learned, and tips .
