@@ -1,7 +1,6 @@
 here's how you can add the **"Using Docker Compose"** section with the `docker compose up -d` command to your `README.md`:
 
 
-````md
 ## Using Docker Compose
 
 to start the entire app with all services running in the background, use:
